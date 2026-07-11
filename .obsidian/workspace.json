@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "4a4180572a8adee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "292293f7e92c5028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3a2cfe448d356b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "五一单片机学习笔记/51单片机.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "51单片机"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a703097177f17346",
+    "type": "split",
+    "children": [
+      {
+        "id": "deb26c814dcdcdb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "849e75834d0cf599",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1010d6a09c46451d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fb39fca3b5ffe513",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e7e99574276ddf8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f1a55396e15127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a367d39ae20b91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "五一单片机学习笔记/数电学习笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数电学习笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "419df09648064d73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "五一单片机学习笔记/数电学习笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数电学习笔记 的出链列表"
+            }
+          },
+          {
+            "id": "4e7e9220f3bdec42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c699c6d9e7132ed3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "26f63cdc5e2a804d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "五一单片机学习笔记/数电学习笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "数电学习笔记 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e3a2cfe448d356b4",
+  "lastOpenFiles": [
+    "Pasted image 20260711185121.png",
+    "五一单片机学习笔记/数电学习笔记.md",
+    "五一单片机学习笔记/51单片机.md",
+    "Pasted image 20260711184256.png",
+    "Pasted image 20260711105017.png",
+    "Pasted image 20260711105853.png",
+    "Pasted image 20260711180123.png",
+    "Pasted image 20260711142619.png",
+    "Pasted image 20260711142557.png",
+    "Pasted image 20260711112215.png",
+    "Pasted image 20260711112111.png",
+    "Pasted image 20260711110955.png",
+    "Pasted image 20260711110415.png",
+    "附件.canvas"
+  ]
+}
