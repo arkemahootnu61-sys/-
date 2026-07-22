@@ -1,0 +1,7 @@
+- ![[Pasted image 20260721091752.png]]
+- ![[Pasted image 20260721092042.png]]
+- .git文件下面有一个objects的文件夹，add提交的都在这个下面，索引树是在index目录下，提交的是master中HEAD指向新的目录树的转移
+- git reset 暂存区的目录树会被回退
+- git rm --cached <file>删除缓存区的文件。
+- git checkout --<file>工作区的一个目录回退
+- git checkout HEAD <file>直接从仓库进行回退

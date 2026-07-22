@@ -1,4 +1,13 @@
 {
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
   "editor:toggle-bullet-list": [
     {
       "modifiers": [
